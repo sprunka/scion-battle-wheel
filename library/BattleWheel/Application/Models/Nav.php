@@ -1,8 +1,8 @@
 <?php
 
-namespace BATTLEWHEEL\Application\Models;
+namespace BattleWheel\Application\Models;
 
-use BATTLEWHEEL\Framework\Model\VanillaModel as VanillaModel;
+use BattleWheel\Framework\Model\VanillaModel as VanillaModel;
 
 class Nav extends VanillaModel
 {

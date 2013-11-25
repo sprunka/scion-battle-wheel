@@ -1,8 +1,8 @@
 <?php
-namespace BATTLEWHEEL\Framework\View;
+namespace BattleWheel\Framework\View;
 
-use BATTLEWHEEL\Tools\Tools as Tools;
-use BATTLEWHEEL\Tools\HTML as HTML;
+use BattleWheel\Tools\Tools as Tools;
+use BattleWheel\Tools\HTML as HTML;
 
 /**
  * Base template for views
