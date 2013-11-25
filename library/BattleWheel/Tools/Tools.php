@@ -1,5 +1,5 @@
 <?php
-namespace BATTLEWHEEL\Tools;
+namespace BattleWheel\Tools;
 
 /**
  * A set of useful tools.
@@ -20,7 +20,7 @@ class Tools
     public static function getPostVar($key, $sanitize = false, $sanitizeMethod = null)
     {
         if (isset($_POST[$key])) {
-            if ($sanitize && method_exists('BATTLEWHEEL\\Tools\\Tools', $sanitizeMethod)) {
+            if ($sanitize && method_exists('BattleWheel\\Tools\\Tools', $sanitizeMethod)) {
                 $value = self::$sanitizeMethod($_POST[$key]);
             } else {
                 $value = $_POST[$key];

@@ -1,9 +1,9 @@
 <?php
 
-namespace BATTLEWHEEL\Framework\Controller;
+namespace BattleWheel\Framework\Controller;
 
-use \BATTLEWHEEL\Framework\View\Template;
-use BATTLEWHEEL\Application\Models;
+use \BattleWheel\Framework\View\Template;
+use BattleWheel\Application\Models;
 use Inflection\Inflection;
 
 /**

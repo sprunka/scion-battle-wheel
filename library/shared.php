@@ -1,6 +1,6 @@
 <?php
 
-use BATTLEWHEEL\Application\Controllers;
+use BattleWheel\Application\Controllers;
 use Inflection\Inflection;
 
 /** Check if environment is development and display and/or log errors accortdingly. **/

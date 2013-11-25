@@ -17,7 +17,7 @@ echo PROJECT_NAME . " - " . PRODUCT_NAME;
             <h5>Navigation</h5>
             <div class="pBody">
 <?php
-$menu = new \BATTLEWHEEL\Framework\View\Template('nav', 'menu');
+$menu = new \BattleWheel\Framework\View\Template('nav', 'menu');
 $menu->render(DONT_RENDER_HEADER);
 ?>
             </div>

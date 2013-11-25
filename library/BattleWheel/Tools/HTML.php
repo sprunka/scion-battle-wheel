@@ -1,5 +1,5 @@
 <?php
-namespace BATTLEWHEEL\Tools;
+namespace BattleWheel\Tools;
 
 /**
  * Helper tool for HTML output.

@@ -1,5 +1,5 @@
 <?php
-namespace BATTLEWHEEL\Tools;
+namespace BattleWheel\Tools;
 
 /**
  * For generating log files.

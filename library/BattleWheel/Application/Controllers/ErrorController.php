@@ -1,7 +1,7 @@
 <?php
-namespace BATTLEWHEEL\Application\Controllers;
+namespace BattleWheel\Application\Controllers;
 
-use BATTLEWHEEL\Framework\Controller\VanillaController as VanillaController;
+use BattleWheel\Framework\Controller\VanillaController as VanillaController;
 
 /**
  * Error Controller

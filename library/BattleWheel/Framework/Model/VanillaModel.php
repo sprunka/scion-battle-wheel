@@ -1,6 +1,6 @@
 <?php
 
-namespace BATTLEWHEEL\Framework\Model;
+namespace BattleWheel\Framework\Model;
 
 use Inflection\Inflection;
 
