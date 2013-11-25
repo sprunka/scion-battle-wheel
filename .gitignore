@@ -1,2 +1,5 @@
 
 .idea/*
+/vendor/composer/
+/vendor/autoload.php
+/tmp/logs/error.log
